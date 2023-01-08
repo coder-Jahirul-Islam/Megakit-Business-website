@@ -1,0 +1,25 @@
+/* resposive starts */
+@media (min-width: 320px) and (max-width: 991.98px) {
+    .col-sm-3.topbar_social_icons {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        padding-bottom: 10px;
+    }
+    .header {
+        position: sticky;
+        top: -88px;
+    }
+    .top_contacts.d-flex.justify-content-center.justify-content-sm-end.align-items-center {
+
+        font-size: 10px;
+        position: sticky;
+    }
+    .hero_content h1 {
+        font-size: 30px;
+    }
+    .section_title {
+        font-size: 22px;
+    }
+}
+/* resposive ends */
